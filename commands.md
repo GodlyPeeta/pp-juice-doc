@@ -48,8 +48,7 @@ Ranks the top players in the server by pp (top 9, only people who have done osus
 ## multiresults (mr)
 Gets the results of a multi lobby, or the result of a specific round (if \<round> is not given, will show the results overall)  
 `pp.mr <link or id> <round number>`  
-![multiresults overall](https://cdn.discordapp.com/attachments/644268290474115075/782995995336245298/unknown.png)  
-![multiresutls specific](https://cdn.discordapp.com/attachments/644268290474115075/782996220435628062/unknown.png)
+![multiresults](https://cdn.discordapp.com/attachments/782996958871683153/782997940569636937/unknown.png)  
 ## beatmaplink (admin only)
 When this is enabled in a channel, bot will get information for every map link that is posted
 `beatmaplink <enable or disable>`
