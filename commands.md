@@ -3,7 +3,7 @@ prefix is currently fixed to pp.
 All of these can also be found with the command pp.help <command>  
 ## osuset
 Sets your osu! username so you don't have to type it out every command (when <name> is blank, defaults to your osu! username)  
-pp.osuset \<name>  
+`pp.osuset \<name>`  
 ![osuset](https://cdn.discordapp.com/attachments/437091189792047125/782988806050807808/unknown.png)  
 ## osu
 Gets your osu! stats  
