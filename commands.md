@@ -14,7 +14,7 @@ Gets your osu! stats
 `pp.osu <name>`  
 ![osu](https://cdn.discordapp.com/attachments/644268290474115075/782989222004129822/unknown.png)  
 ## top (osutop, tp)
-Gets the top 5 pp plays of a user  
+Gets the top 5 pp plays of a user (10 seconds faster than owobot)  
 `pp.top <name>`  
 ![top](https://cdn.discordapp.com/attachments/644268290474115075/782990219230183434/unknown.png)  
 ## strains  
