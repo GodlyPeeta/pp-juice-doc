@@ -2,7 +2,7 @@
 prefix is currently fixed to pp.  
 All of these can also be found with the command pp.help <command>  
 ## Command name (aliases)
-description
+description  
 `usage`  
 ![command name](https://cdn.discordapp.com/attachments/644268290474115075/782993756802252860/unknown.png)
 ## osuset
