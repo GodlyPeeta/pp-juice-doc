@@ -39,7 +39,7 @@ Gets user's best score on the map
 ![scores](https://cdn.discordapp.com/attachments/644268290474115075/782994492503359518/unknown.png)
 ## beatmap (bm)
 Gets a beatmap's info  
-`pp.bm <link>`
+`pp.bm <link>`  
 ![beatmap](https://cdn.discordapp.com/attachments/644268290474115075/782994799883452446/unknown.png)
 ## leaderboard (lb)
 Ranks the top players in the server by pp (top 9, only people who have done osuset)(now takes 30 seconds less than owobot!)  
@@ -47,7 +47,7 @@ Ranks the top players in the server by pp (top 9, only people who have done osus
 ![leaderboard](https://cdn.discordapp.com/attachments/644268290474115075/782995208236695622/unknown.png)
 ## multiresults (mr)
 Gets the results of a multi lobby, or the result of a specific round (if \<round> is not given, will show the results overall)  
-`pp.mr <link or id> <round number>`
+`pp.mr <link or id> <round number>`  
 ![multiresults overall](https://cdn.discordapp.com/attachments/644268290474115075/782995995336245298/unknown.png)  
 ![multiresutls specific](https://cdn.discordapp.com/attachments/644268290474115075/782996220435628062/unknown.png)
 ## beatmaplink (admin only)
